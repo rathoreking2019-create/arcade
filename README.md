@@ -1,0 +1,2 @@
+# arcade
+Free earning game
